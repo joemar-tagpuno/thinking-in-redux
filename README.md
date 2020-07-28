@@ -1,3 +1,5 @@
+# My Thinking in Redux
+
 My production tested implementation of a [React](https://reactjs.org/) with [Redux](https://redux.js.org/) action and effect design pattern based on the book [Thinking in Redux](https://leanpub.com/thinking-in-Redux) by [Nir Kaufman](https://leanpub.com/u/nirkaufman). 
 
 Pictures below are from his book :).
