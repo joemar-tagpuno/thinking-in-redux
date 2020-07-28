@@ -1,3 +1,20 @@
+My production tested implementation of a [React](https://reactjs.org/) with [Redux](https://redux.js.org/) action and effect design pattern based on the book [Thinking in Redux](https://leanpub.com/thinking-in-Redux) by [Nir Kaufman](https://leanpub.com/u/nirkaufman). 
+
+Pictures below are from his book :).
+
+#### Redux Data Flow
+![Redux Data Flow](./redux-data-flow.png)
+
+#### Action Flow
+![Action Flow](./action-flow.png)
+
+#### Middleware Action Routers
+![Action Flow](./feature-middleware-as-action-routers.png)
+
+#### With Redux Dev Tools
+![With Redux Dev Tools](./page.png)
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
