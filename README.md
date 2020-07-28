@@ -1,5 +1,9 @@
 # My Thinking in Redux
 
+<p align="center">
+    <img src="https://github.com/joemar-tagpuno/thinking-in-redux/blob/master/page.png?raw=true" alt="Thinking in Redux"/>
+</p>
+
 My production tested implementation of a [React](https://reactjs.org/) with [Redux](https://redux.js.org/) action and effect design pattern based on the book [Thinking in Redux](https://leanpub.com/thinking-in-Redux) by [Nir Kaufman](https://leanpub.com/u/nirkaufman). 
 
 Pictures below are from his book :).
@@ -12,9 +16,6 @@ Pictures below are from his book :).
 
 #### Middleware Action Routers
 ![Action Flow](./feature-middleware-as-action-routers.png)
-
-#### With Redux Dev Tools
-![With Redux Dev Tools](./page.png)
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
